@@ -33,3 +33,10 @@ In Laravel, CRUD operations can be implemented using the following steps:<br><br
 <li>Use Eloquent, Laravel's ORM, to interact with the database.
 <li>Implement the CRUD operations in the controller methods.
 </ol>
+<br>
+<h1>Steps to use this Repository</h1>
+
+<h3>Step 1:</h3> Create a laravel project using this command=> composer create-project laravel/laravel CRUD-OP
+<h3>Step 2:</h3> Download the file in this repositary
+<h3>Step 3:</h3> Add the following file 
+<h3>Step 4:</h3> All Done 
